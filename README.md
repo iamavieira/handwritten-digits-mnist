@@ -1,6 +1,6 @@
 Classifying MNIST handwritten digits from [Yann LeCun's MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
 
-This databaset has a training set of 60,000 examples, and a test set of 10,000 examples. Images were centered, with sizing of 28x28.
+This dataset has a training set of 60,000 examples, and a test set of 10,000 examples. Images were centered, with sizing of 28x28.
 
 Now, this dataset is particularly interesting, as it is provided in the IDX file format, which is a simple format for vectors and multidimensional matrices 
 of various numerical types. And it is so lightweight that it is the case that I provide a copy of such data in the data folder, so you can get up and running with this notebook yourself.
