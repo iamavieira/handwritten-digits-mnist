@@ -1,4 +1,4 @@
-Classifying MNIST handwritten digits from [Yann LeCun's MNIST Databaset](http://yann.lecun.com/exdb/mnist/).
+Classifying MNIST handwritten digits from [Yann LeCun's MNIST Dataset](http://yann.lecun.com/exdb/mnist/).
 
 This databaset has a training set of 60,000 examples, and a test set of 10,000 examples. Images were centered, with sizing of 28x28.
 
